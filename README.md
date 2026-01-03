@@ -150,6 +150,15 @@ INVENTREE_URL = "http://192.168.1.54:8082"
 API_TOKEN = "inv-310ac487a4b2c8a4a9bfc79acb4fd6595c7928f0-20251222"
 ```
 
+**Security Note:** The API token is currently hardcoded in the scripts. Since this accesses a local-only Inventree instance (192.168.1.54), the token is only valid on your local network. However, best practice is to use environment variables:
+
+```python
+import os
+API_TOKEN = os.getenv('INVENTREE_API_TOKEN', 'your-token-here')
+```
+
+This allows you to keep the token out of version control while still having a fallback for local use.
+
 ### Component Reference
 
 Edit `guitar_pedal_components_reference.yaml`:
