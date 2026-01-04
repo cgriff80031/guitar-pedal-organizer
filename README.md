@@ -16,7 +16,9 @@ This system solves the problem of manually maintaining component labels and trac
 
 ### Core Scripts
 - **`generate_labels.py`** - Main script that generates labels from Inventree + reference data
-- **`update_inventree_locations.py`** - Syncs physical drawer locations to Inventree
+- **`update_inventree_locations.py`** - Syncs physical drawer locations to Inventree (part default locations)
+- **`update_missing_locations.py`** - Fuzzy matcher to assign locations to parts that weren't matched initially
+- **`move_stock_to_locations.py`** - Moves actual stock items to their default compartment locations
 - **`generate_picking_sheet.py`** - Creates pick lists from BOMs with exact locations
 
 ### Data Files
@@ -90,7 +92,28 @@ This creates the location hierarchy in Inventree and updates each part's default
 
 **Location format:** `U1-S5-2` (Unit 1, Small drawer 5, Compartment 2)
 
-### 4. Generate Picking Sheets
+### 4. Fuzzy Match Missing Parts (Optional)
+
+```bash
+python3 update_missing_locations.py
+```
+
+If some parts weren't matched by the initial script (different naming between labels and Inventree), this uses fuzzy matching to assign locations. Handles:
+- Pot naming variations (A100K, B100K, Trimpot 100K → 100K)
+- Capacitor types (100nF Ceramic → 100nF)
+- Component suffix variations
+
+### 5. Move Stock to Locations
+
+```bash
+python3 move_stock_to_locations.py
+```
+
+Moves actual **stock items** from "Workshop" to their specific compartments. This is separate from setting part default locations - it physically relocates your inventory in Inventree.
+
+**Important:** Run this AFTER assigning default locations, otherwise stock won't move.
+
+### 6. Generate Picking Sheets
 
 ```bash
 python3 generate_picking_sheet.py <bom_id>
