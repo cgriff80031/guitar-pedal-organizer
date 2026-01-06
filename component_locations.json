@@ -1,0 +1,1472 @@
+{
+  "10R Resistor": [
+    {
+      "unit": "U1",
+      "drawer": "S1",
+      "compartment": 1
+    }
+  ],
+  "22R Resistor": [
+    {
+      "unit": "U1",
+      "drawer": "S1",
+      "compartment": 1
+    }
+  ],
+  "33R Resistor": [
+    {
+      "unit": "U1",
+      "drawer": "S1",
+      "compartment": 1
+    }
+  ],
+  "47R Resistor": [
+    {
+      "unit": "U1",
+      "drawer": "S1",
+      "compartment": 1
+    }
+  ],
+  "100R Resistor": [
+    {
+      "unit": "U1",
+      "drawer": "S2",
+      "compartment": 2
+    }
+  ],
+  "150R Resistor": [
+    {
+      "unit": "U1",
+      "drawer": "S2",
+      "compartment": 2
+    }
+  ],
+  "200R Resistor": [
+    {
+      "unit": "U1",
+      "drawer": "S2",
+      "compartment": 2
+    }
+  ],
+  "220R Resistor": [
+    {
+      "unit": "U1",
+      "drawer": "S2",
+      "compartment": 2
+    }
+  ],
+  "100K Resistor": [
+    {
+      "unit": "U1",
+      "drawer": "S3",
+      "compartment": 1
+    }
+  ],
+  "150K Resistor": [
+    {
+      "unit": "U1",
+      "drawer": "S3",
+      "compartment": 1
+    }
+  ],
+  "180K Resistor": [
+    {
+      "unit": "U1",
+      "drawer": "S3",
+      "compartment": 1
+    }
+  ],
+  "220K Resistor": [
+    {
+      "unit": "U1",
+      "drawer": "S3",
+      "compartment": 1
+    }
+  ],
+  "300K Resistor": [
+    {
+      "unit": "U1",
+      "drawer": "S4",
+      "compartment": 2
+    }
+  ],
+  "330K Resistor": [
+    {
+      "unit": "U1",
+      "drawer": "S4",
+      "compartment": 2
+    }
+  ],
+  "360K Resistor": [
+    {
+      "unit": "U1",
+      "drawer": "S4",
+      "compartment": 2
+    }
+  ],
+  "390K Resistor": [
+    {
+      "unit": "U1",
+      "drawer": "S4",
+      "compartment": 2
+    }
+  ],
+  "392K Resistor": [
+    {
+      "unit": "U1",
+      "drawer": "S5",
+      "compartment": 1
+    }
+  ],
+  "470K Resistor": [
+    {
+      "unit": "U1",
+      "drawer": "S5",
+      "compartment": 1
+    }
+  ],
+  "510K Resistor": [
+    {
+      "unit": "U1",
+      "drawer": "S5",
+      "compartment": 1
+    }
+  ],
+  "680K Resistor": [
+    {
+      "unit": "U1",
+      "drawer": "S5",
+      "compartment": 1
+    }
+  ],
+  "10K Resistor": [
+    {
+      "unit": "U1",
+      "drawer": "S6",
+      "compartment": 2
+    }
+  ],
+  "12K Resistor": [
+    {
+      "unit": "U1",
+      "drawer": "S6",
+      "compartment": 2
+    }
+  ],
+  "15K Resistor": [
+    {
+      "unit": "U1",
+      "drawer": "S6",
+      "compartment": 2
+    }
+  ],
+  "20K Resistor": [
+    {
+      "unit": "U1",
+      "drawer": "S6",
+      "compartment": 2
+    }
+  ],
+  "22K Resistor": [
+    {
+      "unit": "U1",
+      "drawer": "S7",
+      "compartment": 1
+    }
+  ],
+  "27K Resistor": [
+    {
+      "unit": "U1",
+      "drawer": "S7",
+      "compartment": 1
+    }
+  ],
+  "33K Resistor": [
+    {
+      "unit": "U1",
+      "drawer": "S7",
+      "compartment": 1
+    }
+  ],
+  "39K Resistor": [
+    {
+      "unit": "U1",
+      "drawer": "S7",
+      "compartment": 1
+    }
+  ],
+  "47K Resistor": [
+    {
+      "unit": "U1",
+      "drawer": "S8",
+      "compartment": 2
+    }
+  ],
+  "51K Resistor": [
+    {
+      "unit": "U1",
+      "drawer": "S8",
+      "compartment": 2
+    }
+  ],
+  "56K Resistor": [
+    {
+      "unit": "U1",
+      "drawer": "S8",
+      "compartment": 2
+    }
+  ],
+  "68K Resistor": [
+    {
+      "unit": "U1",
+      "drawer": "S8",
+      "compartment": 2
+    }
+  ],
+  "91K Resistor": [
+    {
+      "unit": "U1",
+      "drawer": "S9",
+      "compartment": 1
+    }
+  ],
+  "1K Resistor": [
+    {
+      "unit": "U1",
+      "drawer": "S10",
+      "compartment": 2
+    }
+  ],
+  "2K Resistor": [
+    {
+      "unit": "U1",
+      "drawer": "S10",
+      "compartment": 2
+    }
+  ],
+  "2.2K Resistor": [
+    {
+      "unit": "U1",
+      "drawer": "S10",
+      "compartment": 2
+    }
+  ],
+  "2.7K Resistor": [
+    {
+      "unit": "U1",
+      "drawer": "S10",
+      "compartment": 2
+    }
+  ],
+  "3K Resistor": [
+    {
+      "unit": "U1",
+      "drawer": "S11",
+      "compartment": 1
+    }
+  ],
+  "3.3K Resistor": [
+    {
+      "unit": "U1",
+      "drawer": "S11",
+      "compartment": 1
+    }
+  ],
+  "3.9K Resistor": [
+    {
+      "unit": "U1",
+      "drawer": "S11",
+      "compartment": 1
+    }
+  ],
+  "4K Resistor": [
+    {
+      "unit": "U1",
+      "drawer": "S11",
+      "compartment": 1
+    }
+  ],
+  "4.7K Resistor": [
+    {
+      "unit": "U1",
+      "drawer": "S12",
+      "compartment": 2
+    }
+  ],
+  "5K Resistor": [
+    {
+      "unit": "U1",
+      "drawer": "S12",
+      "compartment": 2
+    }
+  ],
+  "5.1K Resistor": [
+    {
+      "unit": "U1",
+      "drawer": "S12",
+      "compartment": 2
+    }
+  ],
+  "5.6K Resistor": [
+    {
+      "unit": "U1",
+      "drawer": "S12",
+      "compartment": 2
+    }
+  ],
+  "6K Resistor": [
+    {
+      "unit": "U1",
+      "drawer": "S13",
+      "compartment": 1
+    }
+  ],
+  "6.8K Resistor": [
+    {
+      "unit": "U1",
+      "drawer": "S13",
+      "compartment": 1
+    }
+  ],
+  "8K Resistor": [
+    {
+      "unit": "U1",
+      "drawer": "S13",
+      "compartment": 1
+    }
+  ],
+  "1M Resistor": [
+    {
+      "unit": "U1",
+      "drawer": "S14",
+      "compartment": 2
+    }
+  ],
+  "2M Resistor": [
+    {
+      "unit": "U1",
+      "drawer": "S14",
+      "compartment": 2
+    }
+  ],
+  "2.2M Resistor": [
+    {
+      "unit": "U1",
+      "drawer": "S14",
+      "compartment": 2
+    }
+  ],
+  "3M Resistor": [
+    {
+      "unit": "U1",
+      "drawer": "S14",
+      "compartment": 2
+    }
+  ],
+  "4M Resistor": [
+    {
+      "unit": "U1",
+      "drawer": "S15",
+      "compartment": 1
+    }
+  ],
+  "4.7M Resistor": [
+    {
+      "unit": "U1",
+      "drawer": "S15",
+      "compartment": 1
+    }
+  ],
+  "270R Resistor": [
+    {
+      "unit": "U1",
+      "drawer": "S16",
+      "compartment": 2
+    }
+  ],
+  "330R Resistor": [
+    {
+      "unit": "U1",
+      "drawer": "S16",
+      "compartment": 2
+    }
+  ],
+  "470R Resistor": [
+    {
+      "unit": "U1",
+      "drawer": "S16",
+      "compartment": 2
+    }
+  ],
+  "510R Resistor": [
+    {
+      "unit": "U1",
+      "drawer": "S16",
+      "compartment": 2
+    }
+  ],
+  "680R Resistor": [
+    {
+      "unit": "U1",
+      "drawer": "S16",
+      "compartment": 2
+    }
+  ],
+  "47pF Ceramic Capacitor": [
+    {
+      "unit": "U1",
+      "drawer": "S17",
+      "compartment": 1
+    }
+  ],
+  "50pF Ceramic Capacitor": [
+    {
+      "unit": "U1",
+      "drawer": "S17",
+      "compartment": 1
+    }
+  ],
+  "51pF Ceramic Capacitor": [
+    {
+      "unit": "U1",
+      "drawer": "S17",
+      "compartment": 1
+    }
+  ],
+  "100pF Ceramic Capacitor": [
+    {
+      "unit": "U1",
+      "drawer": "S17",
+      "compartment": 1
+    }
+  ],
+  "120pF Ceramic Capacitor": [
+    {
+      "unit": "U1",
+      "drawer": "S18",
+      "compartment": 2
+    }
+  ],
+  "150pF Ceramic Capacitor": [
+    {
+      "unit": "U1",
+      "drawer": "S18",
+      "compartment": 2
+    }
+  ],
+  "220pF Ceramic Capacitor": [
+    {
+      "unit": "U1",
+      "drawer": "S18",
+      "compartment": 2
+    }
+  ],
+  "390pF Ceramic Capacitor": [
+    {
+      "unit": "U1",
+      "drawer": "S18",
+      "compartment": 2
+    }
+  ],
+  "470pF Ceramic Capacitor": [
+    {
+      "unit": "U1",
+      "drawer": "S19",
+      "compartment": 1
+    }
+  ],
+  "1nF Ceramic Capacitor": [
+    {
+      "unit": "U1",
+      "drawer": "S19",
+      "compartment": 1
+    }
+  ],
+  "2.2nF Ceramic Capacitor": [
+    {
+      "unit": "U1",
+      "drawer": "S19",
+      "compartment": 1
+    }
+  ],
+  "3.3nF Ceramic Capacitor": [
+    {
+      "unit": "U1",
+      "drawer": "S19",
+      "compartment": 1
+    }
+  ],
+  "4.7nF Ceramic Capacitor": [
+    {
+      "unit": "U1",
+      "drawer": "S20",
+      "compartment": 2
+    }
+  ],
+  "6.8nF Ceramic Capacitor": [
+    {
+      "unit": "U1",
+      "drawer": "S20",
+      "compartment": 2
+    }
+  ],
+  "8.2nF Ceramic Capacitor": [
+    {
+      "unit": "U1",
+      "drawer": "S20",
+      "compartment": 2
+    }
+  ],
+  "10nF Ceramic Capacitor": [
+    {
+      "unit": "U1",
+      "drawer": "S20",
+      "compartment": 2
+    }
+  ],
+  "15nF Ceramic Capacitor": [
+    {
+      "unit": "U1",
+      "drawer": "S21",
+      "compartment": 1
+    }
+  ],
+  "22nF Ceramic Capacitor": [
+    {
+      "unit": "U1",
+      "drawer": "S21",
+      "compartment": 1
+    }
+  ],
+  "33nF Ceramic Capacitor": [
+    {
+      "unit": "U1",
+      "drawer": "S21",
+      "compartment": 1
+    }
+  ],
+  "47nF Ceramic Capacitor": [
+    {
+      "unit": "U1",
+      "drawer": "S21",
+      "compartment": 1
+    }
+  ],
+  "68nF Ceramic Capacitor": [
+    {
+      "unit": "U1",
+      "drawer": "S22",
+      "compartment": 2
+    }
+  ],
+  "100nF Ceramic Capacitor": [
+    {
+      "unit": "U1",
+      "drawer": "S22",
+      "compartment": 2
+    }
+  ],
+  "220nF Ceramic Capacitor": [
+    {
+      "unit": "U1",
+      "drawer": "S22",
+      "compartment": 2
+    }
+  ],
+  "470nF Ceramic Capacitor": [
+    {
+      "unit": "U1",
+      "drawer": "S22",
+      "compartment": 2
+    }
+  ],
+  "1nF Film Capacitor": [
+    {
+      "unit": "U1",
+      "drawer": "S23",
+      "compartment": 1
+    }
+  ],
+  "2nF Film Capacitor": [
+    {
+      "unit": "U1",
+      "drawer": "S23",
+      "compartment": 1
+    }
+  ],
+  "3nF Film Capacitor": [
+    {
+      "unit": "U1",
+      "drawer": "S23",
+      "compartment": 1
+    }
+  ],
+  "4nF Film Capacitor": [
+    {
+      "unit": "U1",
+      "drawer": "S23",
+      "compartment": 1
+    }
+  ],
+  "6nF Film Capacitor": [
+    {
+      "unit": "U1",
+      "drawer": "S24",
+      "compartment": 2
+    }
+  ],
+  "10nF Film Capacitor": [
+    {
+      "unit": "U1",
+      "drawer": "S24",
+      "compartment": 2
+    }
+  ],
+  "22nF Film Capacitor": [
+    {
+      "unit": "U1",
+      "drawer": "S24",
+      "compartment": 2
+    }
+  ],
+  "33nF Film Capacitor": [
+    {
+      "unit": "U1",
+      "drawer": "S24",
+      "compartment": 2
+    }
+  ],
+  "47nF Film Capacitor": [
+    {
+      "unit": "U1",
+      "drawer": "S25",
+      "compartment": 1
+    }
+  ],
+  "100nF Film Capacitor": [
+    {
+      "unit": "U1",
+      "drawer": "S25",
+      "compartment": 1
+    }
+  ],
+  "220nF Film Capacitor": [
+    {
+      "unit": "U1",
+      "drawer": "S25",
+      "compartment": 1
+    }
+  ],
+  "470nF Film Capacitor": [
+    {
+      "unit": "U1",
+      "drawer": "S25",
+      "compartment": 1
+    }
+  ],
+  "1uF Electrolytic Capacitor": [
+    {
+      "unit": "U1",
+      "drawer": "S27",
+      "compartment": 1
+    }
+  ],
+  "2.2uF Electrolytic Capacitor": [
+    {
+      "unit": "U1",
+      "drawer": "S27",
+      "compartment": 1
+    }
+  ],
+  "4.7uF Electrolytic Capacitor": [
+    {
+      "unit": "U1",
+      "drawer": "S27",
+      "compartment": 1
+    }
+  ],
+  "10uF Electrolytic Capacitor": [
+    {
+      "unit": "U1",
+      "drawer": "S27",
+      "compartment": 1
+    }
+  ],
+  "22uF Electrolytic Capacitor": [
+    {
+      "unit": "U1",
+      "drawer": "S28",
+      "compartment": 2
+    }
+  ],
+  "47uF Electrolytic Capacitor": [
+    {
+      "unit": "U1",
+      "drawer": "S28",
+      "compartment": 2
+    }
+  ],
+  "100uF Electrolytic Capacitor": [
+    {
+      "unit": "U1",
+      "drawer": "S28",
+      "compartment": 2
+    }
+  ],
+  "220uF Electrolytic Capacitor": [
+    {
+      "unit": "U1",
+      "drawer": "S28",
+      "compartment": 2
+    }
+  ],
+  "470uF Electrolytic Capacitor": [
+    {
+      "unit": "U1",
+      "drawer": "S29",
+      "compartment": 1
+    }
+  ],
+  "12VZD": [
+    {
+      "unit": "U1",
+      "drawer": "S31",
+      "compartment": 1
+    }
+  ],
+  "1N270G": [
+    {
+      "unit": "U1",
+      "drawer": "S31",
+      "compartment": 1
+    }
+  ],
+  "1N34AG": [
+    {
+      "unit": "U1",
+      "drawer": "S31",
+      "compartment": 1
+    }
+  ],
+  "1N4001": [
+    {
+      "unit": "U1",
+      "drawer": "S31",
+      "compartment": 1
+    }
+  ],
+  "1N4005": [
+    {
+      "unit": "U1",
+      "drawer": "S32",
+      "compartment": 2
+    }
+  ],
+  "1N4007": [
+    {
+      "unit": "U1",
+      "drawer": "S32",
+      "compartment": 2
+    }
+  ],
+  "1N4148": [
+    {
+      "unit": "U1",
+      "drawer": "S32",
+      "compartment": 2
+    }
+  ],
+  "1N4738ZD": [
+    {
+      "unit": "U1",
+      "drawer": "S32",
+      "compartment": 2
+    }
+  ],
+  "1N4739ZD": [
+    {
+      "unit": "U1",
+      "drawer": "S33",
+      "compartment": 1
+    }
+  ],
+  "1N4742ZD": [
+    {
+      "unit": "U1",
+      "drawer": "S33",
+      "compartment": 1
+    }
+  ],
+  "1N56AG": [
+    {
+      "unit": "U1",
+      "drawer": "S33",
+      "compartment": 1
+    }
+  ],
+  "1N5817": [
+    {
+      "unit": "U1",
+      "drawer": "S33",
+      "compartment": 1
+    }
+  ],
+  "1N914": [
+    {
+      "unit": "U1",
+      "drawer": "S34",
+      "compartment": 2
+    }
+  ],
+  "1S1588": [
+    {
+      "unit": "U1",
+      "drawer": "S34",
+      "compartment": 2
+    }
+  ],
+  "8V2ZD": [
+    {
+      "unit": "U1",
+      "drawer": "S34",
+      "compartment": 2
+    }
+  ],
+  "9V1ZD": [
+    {
+      "unit": "U1",
+      "drawer": "S34",
+      "compartment": 2
+    }
+  ],
+  "BAT41": [
+    {
+      "unit": "U1",
+      "drawer": "S35",
+      "compartment": 1
+    }
+  ],
+  "BAT42": [
+    {
+      "unit": "U1",
+      "drawer": "S35",
+      "compartment": 1
+    }
+  ],
+  "BAT46": [
+    {
+      "unit": "U1",
+      "drawer": "S35",
+      "compartment": 1
+    }
+  ],
+  "BAT48": [
+    {
+      "unit": "U1",
+      "drawer": "S35",
+      "compartment": 1
+    }
+  ],
+  "R8": [
+    {
+      "unit": "U1",
+      "drawer": "S36",
+      "compartment": 2
+    }
+  ],
+  "1N5819": [
+    {
+      "unit": "U1",
+      "drawer": "S36",
+      "compartment": 2
+    }
+  ],
+  "2N2222": [
+    {
+      "unit": "U1",
+      "drawer": "S37",
+      "compartment": 1
+    }
+  ],
+  "2N3904": [
+    {
+      "unit": "U1",
+      "drawer": "S37",
+      "compartment": 1
+    }
+  ],
+  "2N4123": [
+    {
+      "unit": "U1",
+      "drawer": "S37",
+      "compartment": 1
+    }
+  ],
+  "2N5088": [
+    {
+      "unit": "U1",
+      "drawer": "S37",
+      "compartment": 1
+    }
+  ],
+  "2N5089": [
+    {
+      "unit": "U1",
+      "drawer": "S38",
+      "compartment": 2
+    }
+  ],
+  "2SC1815": [
+    {
+      "unit": "U1",
+      "drawer": "S38",
+      "compartment": 2
+    }
+  ],
+  "BC109C": [
+    {
+      "unit": "U1",
+      "drawer": "S38",
+      "compartment": 2
+    }
+  ],
+  "BC548": [
+    {
+      "unit": "U1",
+      "drawer": "S38",
+      "compartment": 2
+    }
+  ],
+  "BC549C": [
+    {
+      "unit": "U1",
+      "drawer": "S39",
+      "compartment": 1
+    }
+  ],
+  "BC549": [
+    {
+      "unit": "U1",
+      "drawer": "S39",
+      "compartment": 1
+    }
+  ],
+  "BC550C": [
+    {
+      "unit": "U1",
+      "drawer": "S39",
+      "compartment": 1
+    }
+  ],
+  "MPSA18": [
+    {
+      "unit": "U1",
+      "drawer": "S39",
+      "compartment": 1
+    }
+  ],
+  "2N3906": [
+    {
+      "unit": "U1",
+      "drawer": "S41",
+      "compartment": 1
+    }
+  ],
+  "2N4125": [
+    {
+      "unit": "U1",
+      "drawer": "S41",
+      "compartment": 1
+    }
+  ],
+  "2N4402": [
+    {
+      "unit": "U1",
+      "drawer": "S41",
+      "compartment": 1
+    }
+  ],
+  "2N5087": [
+    {
+      "unit": "U1",
+      "drawer": "S41",
+      "compartment": 1
+    }
+  ],
+  "2N5457": [
+    {
+      "unit": "U1",
+      "drawer": "S43",
+      "compartment": 1
+    }
+  ],
+  "2N5458": [
+    {
+      "unit": "U1",
+      "drawer": "S43",
+      "compartment": 1
+    }
+  ],
+  "2N5485": [
+    {
+      "unit": "U1",
+      "drawer": "S43",
+      "compartment": 1
+    }
+  ],
+  "J201": [
+    {
+      "unit": "U1",
+      "drawer": "S43",
+      "compartment": 1
+    }
+  ],
+  "MPF4393": [
+    {
+      "unit": "U1",
+      "drawer": "S44",
+      "compartment": 2
+    }
+  ],
+  "2N7000": [
+    {
+      "unit": "U1",
+      "drawer": "S45",
+      "compartment": 1
+    }
+  ],
+  "BS170": [
+    {
+      "unit": "U1",
+      "drawer": "S45",
+      "compartment": 1
+    }
+  ],
+  "24LC32A": [
+    {
+      "unit": "U2",
+      "drawer": "M1",
+      "compartment": 1
+    }
+  ],
+  "CD4049UBE": [
+    {
+      "unit": "U2",
+      "drawer": "M1",
+      "compartment": 1
+    }
+  ],
+  "FV-1": [
+    {
+      "unit": "U2",
+      "drawer": "M1",
+      "compartment": 1
+    }
+  ],
+  "JRC4558": [
+    {
+      "unit": "U2",
+      "drawer": "M1",
+      "compartment": 1
+    }
+  ],
+  "JRC4580": [
+    {
+      "unit": "U2",
+      "drawer": "M2",
+      "compartment": 2
+    }
+  ],
+  "L78L05": [
+    {
+      "unit": "U2",
+      "drawer": "M2",
+      "compartment": 2
+    }
+  ],
+  "L78L33": [
+    {
+      "unit": "U2",
+      "drawer": "M2",
+      "compartment": 2
+    }
+  ],
+  "LF353N": [
+    {
+      "unit": "U2",
+      "drawer": "M2",
+      "compartment": 2
+    }
+  ],
+  "LM308": [
+    {
+      "unit": "U2",
+      "drawer": "M3",
+      "compartment": 1
+    }
+  ],
+  "LM3080": [
+    {
+      "unit": "U2",
+      "drawer": "M3",
+      "compartment": 1
+    }
+  ],
+  "LM358": [
+    {
+      "unit": "U2",
+      "drawer": "M3",
+      "compartment": 1
+    }
+  ],
+  "LM386": [
+    {
+      "unit": "U2",
+      "drawer": "M3",
+      "compartment": 1
+    }
+  ],
+  "LM741": [
+    {
+      "unit": "U2",
+      "drawer": "M4",
+      "compartment": 2
+    }
+  ],
+  "LM833": [
+    {
+      "unit": "U2",
+      "drawer": "M4",
+      "compartment": 2
+    }
+  ],
+  "LT1054": [
+    {
+      "unit": "U2",
+      "drawer": "M4",
+      "compartment": 2
+    }
+  ],
+  "MC1458": [
+    {
+      "unit": "U2",
+      "drawer": "M4",
+      "compartment": 2
+    }
+  ],
+  "MN3007": [
+    {
+      "unit": "U2",
+      "drawer": "M5",
+      "compartment": 1
+    }
+  ],
+  "MN3101": [
+    {
+      "unit": "U2",
+      "drawer": "M5",
+      "compartment": 1
+    }
+  ],
+  "MN3102": [
+    {
+      "unit": "U2",
+      "drawer": "M5",
+      "compartment": 1
+    }
+  ],
+  "MN3207": [
+    {
+      "unit": "U2",
+      "drawer": "M5",
+      "compartment": 1
+    }
+  ],
+  "NE5532": [
+    {
+      "unit": "U2",
+      "drawer": "M6",
+      "compartment": 2
+    }
+  ],
+  "OPA2134": [
+    {
+      "unit": "U2",
+      "drawer": "M6",
+      "compartment": 2
+    }
+  ],
+  "PT2399": [
+    {
+      "unit": "U2",
+      "drawer": "M6",
+      "compartment": 2
+    }
+  ],
+  "RC4558P": [
+    {
+      "unit": "U2",
+      "drawer": "M6",
+      "compartment": 2
+    }
+  ],
+  "TC1044": [
+    {
+      "unit": "U2",
+      "drawer": "M7",
+      "compartment": 1
+    }
+  ],
+  "TL022": [
+    {
+      "unit": "U2",
+      "drawer": "M7",
+      "compartment": 1
+    }
+  ],
+  "TL071": [
+    {
+      "unit": "U2",
+      "drawer": "M7",
+      "compartment": 1
+    }
+  ],
+  "TL072": [
+    {
+      "unit": "U2",
+      "drawer": "M7",
+      "compartment": 1
+    }
+  ],
+  "TL074": [
+    {
+      "unit": "U2",
+      "drawer": "M8",
+      "compartment": 2
+    }
+  ],
+  "V3102D": [
+    {
+      "unit": "U2",
+      "drawer": "M8",
+      "compartment": 2
+    }
+  ],
+  "V3207D": [
+    {
+      "unit": "U2",
+      "drawer": "M8",
+      "compartment": 2
+    }
+  ],
+  "IC Socket - 8-pin": [
+    {
+      "unit": "U2",
+      "drawer": "M9",
+      "compartment": 1
+    }
+  ],
+  "IC Socket - 14-pin": [
+    {
+      "unit": "U2",
+      "drawer": "M9",
+      "compartment": 1
+    }
+  ],
+  "IC Socket - 16-pin": [
+    {
+      "unit": "U2",
+      "drawer": "M9",
+      "compartment": 1
+    }
+  ],
+  "3PDT Stomp Switch - Std": [
+    {
+      "unit": "U2",
+      "drawer": "M10",
+      "compartment": 2
+    }
+  ],
+  "3PDT Stomp Switch - Lo-Pro": [
+    {
+      "unit": "U2",
+      "drawer": "M10",
+      "compartment": 2
+    }
+  ],
+  "500": [
+    {
+      "unit": "U2",
+      "drawer": "M11",
+      "compartment": 1
+    }
+  ],
+  "1K": [
+    {
+      "unit": "U2",
+      "drawer": "M16",
+      "compartment": 2
+    }
+  ],
+  "5K": [
+    {
+      "unit": "U2",
+      "drawer": "M16",
+      "compartment": 2
+    }
+  ],
+  "10K": [
+    {
+      "unit": "U2",
+      "drawer": "M16",
+      "compartment": 2
+    }
+  ],
+  "20K": [
+    {
+      "unit": "U2",
+      "drawer": "M12",
+      "compartment": 2
+    }
+  ],
+  "50K": [
+    {
+      "unit": "U2",
+      "drawer": "T3",
+      "compartment": 1
+    }
+  ],
+  "100K": [
+    {
+      "unit": "U2",
+      "drawer": "T3",
+      "compartment": 1
+    }
+  ],
+  "250K": [
+    {
+      "unit": "U2",
+      "drawer": "T2",
+      "compartment": 2
+    }
+  ],
+  "500K": [
+    {
+      "unit": "U2",
+      "drawer": "T3",
+      "compartment": 1
+    }
+  ],
+  "1M": [
+    {
+      "unit": "U2",
+      "drawer": "T2",
+      "compartment": 2
+    }
+  ],
+  "25K": [
+    {
+      "unit": "U2",
+      "drawer": "M16",
+      "compartment": 2
+    }
+  ],
+  "PC: 10K": [
+    {
+      "unit": "U2",
+      "drawer": "T2",
+      "compartment": 2
+    }
+  ],
+  "P-PCB: 20K": [
+    {
+      "unit": "U2",
+      "drawer": "T3",
+      "compartment": 1
+    }
+  ],
+  "LED 3mm - Red": [
+    {
+      "unit": "U1",
+      "drawer": "S47",
+      "compartment": 1
+    }
+  ],
+  "LED 3mm - Green": [
+    {
+      "unit": "U1",
+      "drawer": "S47",
+      "compartment": 1
+    }
+  ],
+  "LED 3mm - Blue": [
+    {
+      "unit": "U1",
+      "drawer": "S47",
+      "compartment": 1
+    }
+  ],
+  "LED 3mm - Orange": [
+    {
+      "unit": "U1",
+      "drawer": "S47",
+      "compartment": 1
+    }
+  ],
+  "LED 5mm - Red": [
+    {
+      "unit": "U1",
+      "drawer": "S48",
+      "compartment": 2
+    }
+  ],
+  "LED 5mm - Green": [
+    {
+      "unit": "U1",
+      "drawer": "S48",
+      "compartment": 2
+    }
+  ],
+  "LED 5mm - Blue": [
+    {
+      "unit": "U1",
+      "drawer": "S48",
+      "compartment": 2
+    }
+  ],
+  "LED 5mm - Orange": [
+    {
+      "unit": "U1",
+      "drawer": "S48",
+      "compartment": 2
+    }
+  ],
+  "3PDT Switch - On-Off-On": [
+    {
+      "unit": "U1",
+      "drawer": "S53",
+      "compartment": 1
+    }
+  ],
+  "3PDT Switch - On-On": [
+    {
+      "unit": "U1",
+      "drawer": "S53",
+      "compartment": 1
+    }
+  ],
+  "2PDT Switch - On-Off-On": [
+    {
+      "unit": "U1",
+      "drawer": "S54",
+      "compartment": 2
+    }
+  ],
+  "2PDT Switch - On-On": [
+    {
+      "unit": "U1",
+      "drawer": "S54",
+      "compartment": 2
+    }
+  ]
+}

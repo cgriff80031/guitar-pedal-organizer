@@ -8,10 +8,15 @@ env/
 venv/
 *.egg-info/
 
-# Generated files
+# Generated files (old format)
 akromills_labels_complete.csv
-component_locations.json
-*.glabels
+akromills_labels_new_format.csv
+akromills_labels_complete_BACKUP.csv
+
+# Allow the final versions (these are source files)
+!akromills_labels_final.csv
+!akromills_labels_spatial_layout.glabels
+!component_locations.json
 
 # IDE
 .vscode/
